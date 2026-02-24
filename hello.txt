@@ -1,0 +1,2 @@
+this is a git session. nano like a notepad
+example write codes,data etc.,
