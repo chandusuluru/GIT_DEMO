@@ -1,4 +1,3 @@
-x = 16
-y= 19
-z = x+y
-print(z)
+name = "Chandu"
+print("Hello", name)
+print("Welcome to Python")
